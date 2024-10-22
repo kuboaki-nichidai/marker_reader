@@ -159,7 +159,7 @@ NOTE: 実験したコードをコミットしておくこと。
 下記に、定義した文字列配列のコードを記載しなさい。ここにコードを切り貼りするのではなく、修正したコードそのものを参照するかたちをとること。
 
 [source,c,linenums]
-.`sample04_color_name_test/app.c` （の``colorid_t` の値を色の名前の文字列に変換する配列の部分）
+.`sample04_color_name_test/app.c` （の `colorid_t` の値を色の名前の文字列に変換する配列の部分）
 ----
 include::{sourcesdir}/sample04_color_name_test/app.c[lines=1..27]
 ----
